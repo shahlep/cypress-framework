@@ -1,0 +1,24 @@
+{
+  "name": "cypress-framework",
+  "version": "1.0.0",
+  "description": "Automation framework with Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shahlep/cypress-framework.git"
+  },
+  "keywords": [
+    "Automation",
+    "Framework",
+    "Cypress"
+  ],
+  "author": "Shah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shahlep/cypress-framework/issues"
+  },
+  "homepage": "https://github.com/shahlep/cypress-framework#readme"
+}
