@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/shahlep/cypress-framework#readme",
   "dependencies": {
-    "cypress": "^9.5.1"
+    "cypress": "^9.5.1",
+    "cypress-cucumber-preprocessor": "^4.3.1"
   }
 }
